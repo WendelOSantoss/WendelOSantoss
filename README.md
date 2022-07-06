@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/wendel-de-oliveira-santos-b71317124/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://steamcommunity.com/profiles/76561198080011696/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/WendelOSantoss/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
