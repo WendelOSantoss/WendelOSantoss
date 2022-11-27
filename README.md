@@ -1,7 +1,7 @@
 ## Hello! My name is Wendel Santos, and this is my GITHUB profile.
 <ul>
 <li>🧑‍💼 Web Development</li>
-<li>📖 Learning Javascript / HTML / CSS</li>
+<li>📖 Learning Javascript / HTML / CSS/ NODE.js/ NestJS</li>
 </ul> 
 
 <div align="center">
